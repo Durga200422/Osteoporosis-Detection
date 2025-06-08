@@ -469,6 +469,6 @@ streamlit run app.py
 Among all models, **Custom CNN** performed the best with **89% accuracy**, followed by **InceptionV3** at **88%**. The **VGG and ResNet architectures** showed moderate performance. The **confusion matrices and graphs** provide further insights into model performance.
 ---
 ## Authors
-- **[Dogga Pavan Sekhar](https://www.linkedin.com/in/dogga-pavan-sekhar-006a83252/)** - AI/ML Researcher
+- **[Narapureddy Durga Prasad Reddy](https://www.linkedin.com/in/narapureddy-d-2a5402252/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** - AI/ML Researcher
 ---
 *This project was developed as part of an ongoing research initiative in medical image classification using deep learning.*
