@@ -428,6 +428,7 @@ Place the following trained model files in the application directory:
 streamlit run app.py
 
 ## Application Workflow
+![image alt](https://github.com/Durga200422/Osteoporosis-Detection/blob/858f76379ffbef4f076bd5d19d57a5d13fc6bd6d/Application%20Interface.png)
 
 1. Model Selection: Choose from 8 available deep learning models (InceptionV3 recommended)
 2. Image Upload: Upload knee X-ray image via drag-and-drop or file browser
